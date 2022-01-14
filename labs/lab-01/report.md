@@ -10,7 +10,11 @@
 3. Another suggestion I'd add is to redirect the task to another person that you believe is more beneficial and knowledgeable. If you think you can't provide the best answer, but you are more confident that another person you know can, there's nothing wrong with redirecting the question to that person. Furthermore, another suggestion would be to include learning material if you can. If you want the user to learn rather than just take your direct answer, you can give them reading material or a resource that contains a clear answer to their question. 
 4. This anecdote demonstrates the dangers of utilizing open source technologies. Jesse's engine was a modification of the Microsoft file-sharing system. Copyright has always been a massive problem in the music industry. Perhaps the RIAA's ruthlessness of the lawsuit was due to Jesse's search engine being comparable to a big corporation's own technology. The chapter did not mention anything about licences or whether Jesse credited Microsoft in his work. This shows that open source programs that facilitates piracy of media, especially music, can become very dangerous territory. It's important for developers to thoroughly think about the consequences to making their work open source. In the wrong hands, even if it's due to an unforeseen accident, open source software could potentially ruin lives if they are not handled with care.  
 
+# Linux 
+![manTree](https://user-images.githubusercontent.com/68397066/149577077-06f8a275-6dc7-44e5-9727-96cad39dc9b2.PNG)
+
 # Regex 
+![regexPractice](https://user-images.githubusercontent.com/68397066/149577094-1be7eef0-4366-43b1-9d86-044058d6ad83.PNG)
 
 # Blockly 
 
