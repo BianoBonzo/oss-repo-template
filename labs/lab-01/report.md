@@ -15,6 +15,10 @@
 
 # Regex 
 ![regexPractice](https://user-images.githubusercontent.com/68397066/149577094-1be7eef0-4366-43b1-9d86-044058d6ad83.PNG)
+![Practice1](https://user-images.githubusercontent.com/68397066/149580068-e2ac7c20-7b9e-49ca-a3c5-6dc9ea230bd2.PNG)
+![Practice2](https://user-images.githubusercontent.com/68397066/149580089-9cf3ca51-e33c-44da-8e0d-b66a59bada19.PNG)
+![Practice3](https://user-images.githubusercontent.com/68397066/149580096-59e6907d-06fd-4f7a-970f-e671377c2187.PNG)
+![Practice4](https://user-images.githubusercontent.com/68397066/149580105-cf30aecf-3560-4565-b2f0-5c5f2401dd50.PNG)
 
 # Blockly 
 
