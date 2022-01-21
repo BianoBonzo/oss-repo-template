@@ -6,9 +6,9 @@ Link to Repo: https://github.com/BianoBonzo/Lab2
 
 Screenshots of ```gitk``` and ```gitk --all```<br/>
 
-<img src="../../images/gitk.PNG"><br/>
-<img src="../../images/gitkall.PNG"><br/>
-<img src="../../images/BranchDiagram.PNG">
+<img src="../../images/gitkCommand.PNG"><br/>
+<img src="../../images/gitkallCommand.PNG"><br/>
+<img src="../../images/gitlogCommand.PNG">
 
 ## Part 2
 
