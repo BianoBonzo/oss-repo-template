@@ -1,4 +1,9 @@
-# Community Lab Report 
+# Lab Report 3 
+
+# Part 1 
+![image](https://user-images.githubusercontent.com/68397066/151603611-3a760d01-6868-467a-800f-648ae43ca68f.png)
+
+# Part 2
 
 # Auto-Calendar
 Link: https://github.com/saprap1/auto-calendar
@@ -35,7 +40,7 @@ Link: https://github.com/dylanmoody/BOT
 
 Number of Contributors: 3
 
-Number of Lines of Code : 2103
+Number of Lines of Code : 187608
 
 First commit - Jan 24th 2020
 596a96e136c6552e58f04e5c1dd625e304b89c93
@@ -74,3 +79,12 @@ Last commit - Mar 17th 2021
 0aa25486b6f532102c460593a8ddf1e0104c0bf9
 
 Number of Branches: 1
+
+# Gitstats
+
+=== AutoLogin Gitstats ===</br>
+![image](https://user-images.githubusercontent.com/68397066/151603779-122d1288-683f-40dc-be2a-5fb455b675bc.png)
+
+
+=== AutoPR Gitstats ===</br>
+
