@@ -87,4 +87,14 @@ Number of Branches: 1
 
 
 === AutoPR Gitstats ===</br>
+![image](https://user-images.githubusercontent.com/68397066/151634602-dd5f7f2a-67c4-423b-b52f-dc87aa636aef.png)
+
+=== BOT Gitstats ===</br>
+![image](https://user-images.githubusercontent.com/68397066/151634639-40741fea-288f-4751-8e55-a6a409511c76.png)
+
+=== Auto-Calendar Gitstats ===</br>
+![image](https://user-images.githubusercontent.com/68397066/151634676-a9633dc5-f0f2-4171-8686-b410f78b18c1.png)
+
+=== B7 Gitstats ===</br>
+![image](https://user-images.githubusercontent.com/68397066/151634694-cf6bd057-db7b-4a18-abf2-a994a4c9d3f2.png)
 
