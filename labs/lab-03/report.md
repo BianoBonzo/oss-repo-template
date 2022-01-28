@@ -1,6 +1,8 @@
 # Lab Report 3 
 
 # Part 1 
+Wiki Page: https://github.com/BianoBonzo/oss-repo-template/wiki
+
 ![image](https://user-images.githubusercontent.com/68397066/151603611-3a760d01-6868-467a-800f-648ae43ca68f.png)
 
 # Part 2
