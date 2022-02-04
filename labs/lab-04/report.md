@@ -11,14 +11,15 @@ I think that it's better to release software early in the process. By making you
 Linux uses the [GPLv2 license](https://en.wikipedia.org/wiki/GNU_General_Public_License#Version_2) because its distribution, which includes the Linux kernel and many supporting libraries, were provided by the [GNU Project](https://en.wikipedia.org/wiki/GNU_Project). The GNU Project was an endeavor by [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) to give developers the freedom and ability to run, copy, study, and modify software. He started the project in 1983, and his achievements practically pioneered the term "free software". His goal was to create a a free software system compatabile with Unix. To achive it, he started a free software movement by starting the [Free Software Foundation](https://en.wikipedia.org/wiki/Free_Software_Foundation) and writing the [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License). The conditions of the license reflected Stallman's beliefs of the 4 major software development freedoms: run, study, modify, copy. Although there is a third version of GPL, Linux is still licensed under the second version because the new version prohibits the use of Linux in digital rights management. Furthermore, there are now thousands of copyright holders to the license, so it would be a major challenge to obtain permission from all of them.
 
 ## Made-up Open Source Project 
+Link: https://github.com/BianoBonzo/OpenSourceBuildings
 
 ## License Table 
 | Website | License Present | License |
 | --- | --- | --- |
-| --- | --- | --- |
-| --- | --- | --- |
-| --- | --- | --- |
-| --- | --- | --- |
-| --- | --- | --- |
+| https://github.com/djpetti/molecube | Yes | [MIT License](https://en.wikipedia.org/wiki/MIT_License) |
+| https://github.com/musicexmachina/mxm | Yes | [MIT License](https://en.wikipedia.org/wiki/MIT_License) |
+| https://github.com/jallibad/stillgood | Yes | [Apache License 2.0](https://en.wikipedia.org/wiki/Apache_License#Apache_License_2.0) |
+| https://github.com/tlouison/storyhop | Yes | [GPL v3](https://en.wikipedia.org/wiki/GNU_General_Public_License#Version_3) |
+| https://github.com/aferritto/TGT | Yes | [GPL v3](https://en.wikipedia.org/wiki/GNU_General_Public_License#Version_3) |
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
