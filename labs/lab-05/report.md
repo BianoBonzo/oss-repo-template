@@ -42,3 +42,10 @@ Link to `MathFunctions/CMakeLists.txt`: https://github.com/BianoBonzo/oss-repo-t
 ![Step5](https://user-images.githubusercontent.com/68397066/153649838-1a6ede31-50a4-4b5c-a3a5-dff2c2693ab6.PNG)
 
 ## Lab Build Systems Example
+
+Link to Makefile: https://github.com/BianoBonzo/oss-repo-template/blob/master/labs/lab-05/lab-build/Makefile </br>
+Link to CMakeLists.txt: https://github.com/BianoBonzo/oss-repo-template/blob/master/labs/lab-05/lab-build/CMakeLists.txt </br>
+Link to cmake Makefile: https://github.com/BianoBonzo/oss-repo-template/blob/master/labs/lab-05/lab-build/cmake-makefile/Makefile </br>
+
+![makefileResults](https://user-images.githubusercontent.com/68397066/153684031-7c7c529f-4238-4a1c-9caf-980e89855150.PNG)
+
