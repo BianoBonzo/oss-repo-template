@@ -20,4 +20,8 @@ Results:
 
 ### Step 3
 
-Code: 
+Code: https://github.com/BianoBonzo/oss-repo-template/blob/master/labs/lab-06/plot_words_step3.py
+
+![](./Step3_p1.PNG)
+
+![](./Step3_p2.PNG)
