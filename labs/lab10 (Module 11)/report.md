@@ -26,7 +26,8 @@
 
 ### Clothing 3: 
 
-![clothing3](https://user-images.githubusercontent.com/68397066/162484303-6a223dad-44c2-4c5b-bf74-72c95f65b398.jpg)
+![bag](https://user-images.githubusercontent.com/68397066/162484562-2c2d0f1c-3df8-44f5-8214-08d8a208773a.jpg)
+
 
 #### New Image
 ![new_bag](https://user-images.githubusercontent.com/68397066/162484366-6f49fb1d-b7cc-4b8f-b9f2-b4c3c0bbbcf1.jpg)
