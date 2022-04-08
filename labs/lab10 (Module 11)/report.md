@@ -34,3 +34,5 @@
 
 ![F3](https://user-images.githubusercontent.com/68397066/162487448-bb8f65bb-237a-49ce-b1f0-b72ea2e8eb90.PNG)
 
+My classification model got 2 out of the 3 images right. I consider the 2nd one right since the second piece of clothing is still a shirt. It seems as though the model has difficulties with assigning the correct label to the image, even though in the second and third case the predicted piece of clothing is correct.                    
+
