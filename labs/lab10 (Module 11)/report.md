@@ -13,7 +13,7 @@
 #### New Image
 ![new_shirt1](https://user-images.githubusercontent.com/68397066/162484127-a7aadb2b-2b79-4002-9a7d-b67f29623368.jpg)
 
-![checkpoint3-1-Final](https://user-images.githubusercontent.com/68397066/162486364-bfaae648-2f3f-4a63-84df-d7fbed2d9864.PNG)
+![F1](https://user-images.githubusercontent.com/68397066/162487800-34f01037-bbb3-4743-8357-bca5402dd756.PNG)
 
 ### Clothing 2: 
 
@@ -22,7 +22,7 @@
 #### New Image
 ![new_shirt2](https://user-images.githubusercontent.com/68397066/162484326-1259afa6-26fa-41ad-bb40-0ca2c7b389fe.jpg)
 
-![checkpoint3-2-Final](https://user-images.githubusercontent.com/68397066/162486384-cf3e71bf-0086-4488-88f0-96d8d6243574.PNG)
+![F2](https://user-images.githubusercontent.com/68397066/162487598-3884e214-1754-42de-be11-1c7073a8afd3.PNG)
 
 ### Clothing 3: 
 
@@ -32,5 +32,5 @@
 #### New Image
 ![new_bag](https://user-images.githubusercontent.com/68397066/162484366-6f49fb1d-b7cc-4b8f-b9f2-b4c3c0bbbcf1.jpg)
 
-![checkpoint3-3-Final](https://user-images.githubusercontent.com/68397066/162486413-3f1e0d5e-8dda-40df-a471-cc30fde3e11f.PNG)
+![F3](https://user-images.githubusercontent.com/68397066/162487448-bb8f65bb-237a-49ce-b1f0-b72ea2e8eb90.PNG)
 
